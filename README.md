@@ -2,8 +2,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
-- 👋 Hi, I’m @VladCrim
-- 👀 I’m interested in ...
 - 🌱 Заканчиваю обучение в Яндекс Практикуме. На практике:
       — Формировал SQL-запросы (PostgreSQL с примением базовых запросов, фильтрации, агрегации, группировки данных, подзапросов, джойнов и оконных функций).
       — Проводил предобработку данных с Python (библиотека Pandas). Работал в Jupyter Notebook.
@@ -13,7 +11,7 @@
       — Анализировал данные A/B-тестов и применять статистический анализ к результатам A/B-теста.
       — Готовил дашборды в Tableau
 - 💞️ Ключевые навыки: Python (Matplotlib, NumPy, Pandas, SciPy, Matplotlib, Seaborn, Plotly, A/B-тестирование), PostgreSQL, Tableau, Jupyter Notebook
-- 📫 How to reach me ...
+- 📫 Связь со мной: mvi2071@yandex.ru
   
 <!---
 VladCrim/VladCrim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
